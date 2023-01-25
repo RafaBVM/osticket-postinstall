@@ -67,7 +67,7 @@ I now configure some SLA's dictacting the severity of the tickets given to the a
 <img src="https://i.imgur.com/qOPWXWD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I set SEV-A to a 1 hour grace period under 24/7 schedule, SEV-B to a 4 hour grace period under a 24/7 schedule, and SEV-C to a 8 hour grace period under bussiness hours (weekday) schedule.
+I set SEV-A to a 1 hour grace period under a 24/7 schedule, SEV-B to a 4 hour grace period under a 24/7 schedule, and SEV-C to a 8 hour grace period under bussiness hours (weekday) schedule.
 </p>
 <br />
 <p>
