@@ -34,7 +34,7 @@ I also configured a team under the name Level II Support. I went to the Admin Pa
 <img src="https://i.imgur.com/1TKAP4D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now I go to the Admin Panel -> Settings -> User Settings to give the end users access to create tickets. I make sure that the require registration boc is unchecked so that they gain full access since the end users don't have access to a password to login.
+Now I go to the Admin Panel -> Settings -> User Settings to give the end users access to create tickets. I make sure that the require registration box is unchecked so that they gain full access since the end users don't have access to a password login.
 </p>
 <br />
 <img src="https://i.imgur.com/n97OiFZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
