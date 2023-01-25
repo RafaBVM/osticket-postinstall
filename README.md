@@ -46,8 +46,6 @@ Level II team. For David I gave him limited access under the support department 
 <img src="https://i.imgur.com/38Xgys0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It
-</p>
 <br />
 Here I configure the end users under the names Karen Duff and Ken Clark. I go to the Agent Panel -> Users -> Add New. Pretty self explanatory as you can see in the image above.
 
