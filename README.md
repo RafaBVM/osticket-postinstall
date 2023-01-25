@@ -45,8 +45,8 @@ I go to the Admin Panel -> Settings -> User Settings to give the end users acces
 <img src="https://i.imgur.com/n97OiFZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now I configure agents to work on the tickets. I create two agents under the name Alex Hernandez and David Quintanilla, giving them individual emails and passwords, but different access for both. Alex's role is under the System Admin that I had created earlier and the department he's under is the Supreme Admin that I had also made giving him overall access to the tickets and assigning them to whomever. The team I put him in is the Support 
-Level II team. For David I gave him limited access under the support department but gave him secondary access to the System Admin departement so he can resolve the tickets that he has assigned. I put him under the Level I Support team. 
+Now I configure agents to work on the tickets. I create two agents under the name Alex Hernandez and David Quintanilla, giving them individual emails and passwords, but different access for both. Alex's role is under Supreme Admin in which I had created earlier, and the department he's under is the System Admin that I had also made giving him overall access to the tickets and assigning them to whomever. The team I put him in is the Support 
+Level II team. For David I gave him limited access under the Support department but gave him secondary access to the System Admin departement so he can resolve the tickets that he has assigned. I put him under the Level I Support team. 
 </p>
 <br />
 <p>
@@ -54,4 +54,26 @@ Level II team. For David I gave him limited access under the support department 
 </p>
 <p>
 Here I configure the end users under the names Karen Duff and Ken Clark. I go to the Agent Panel -> Users -> Add New. Pretty self explanatory as you can see in the image above.
-
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/JMavsMf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+I now configure some SLA's dictacting the severity of the tickets given to the agents. I go back to the Admin Panel -> Manage -> SLA and add new SLA plan. I add three SLA's, A, B, and C.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/qOPWXWD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+I set SEV-A to a 1 hour grace period under 24/7 schedule, SEV-B to a 4 hour grace period under a 24/7 schedule, and SEV-C to a 8 hour grace period under bussiness hours (weekday) schedule.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/O3feGih.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+To conclude I go to Admin Panel -> Manage -> Help Topics to create some help topics for the agents. I create a Business Critical Outage topic, a Personal Computer Issues topic, a Equipment Request, and a Password Reset topic. Now that that's been created, I can go ahead and make tickets for the agents under the end users on the end users osTicket URL.
+<br />
+<p>
