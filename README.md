@@ -1,9 +1,9 @@
-# osticket-postinstall
+# osTicket Post Installation Configuration
 <p>
 <img src="https://i.imgur.com/w4qxGDf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This is now the setup of the post installation of osTicket for the agents and users functionality/access. I do this under my main admin account as you can see in the image above.
+This is now the setup of the post installation configuration of osTicket for the agents and users functionality/access. I do this under my main admin account as you can see in the image above.
 </p>
 <br />
 <p>
