@@ -34,7 +34,7 @@ I also configured a team under the name Level II Support. I went to the Admin Pa
 <img src="https://i.imgur.com/1TKAP4D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now I go to the Admin Panel -> Settings -> User Settings to give the end users access to create tickets. I make sure that the require registration box is unchecked so that they gain full access since the end users don't have access to a password login.
+I go to the Admin Panel -> Settings -> User Settings to give the end users access to create tickets. I make sure that the require registration box is unchecked so that they gain full access since the end users don't have access to a password login.
 </p>
 <br />
 <img src="https://i.imgur.com/n97OiFZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -43,4 +43,11 @@ Now I go to the Admin Panel -> Settings -> User Settings to give the end users a
 Now I configure agents to work on the tickets. I create two agents under the name Alex Hernandez and David Quintanilla, giving them individual emails and passwords, but different access for both. Alex's role is under the System Admin that I had created earlier and the department he's under is the Supreme Admin that I had also made giving him overall access to the tickets and assigning them to whomever. The team I put him in is the Support 
 Level II team. For David I gave him limited access under the support department but gave him secondary access to the System Admin departement so he can resolve the tickets that he has assigned. I put him under the Level I Support team. 
 <br />
+<img src="https://i.imgur.com/38Xgys0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+It
+</p>
+<br />
+Here I configure the end users under the names Karen Duff and Ken Clark. I go to the Agent Panel -> Users -> Add New. Pretty self explanatory as you can see in the image above.
 
